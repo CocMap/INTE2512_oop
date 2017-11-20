@@ -6,7 +6,7 @@ Here are some sample runs for inputs 10, 30, and 23
 - 30 is divisible by both 5 and 6
 - 23 is not divisible by either 5 or 6
  */
-package w1;
+package week1;
 
 import java.util.Scanner;
 

@@ -3,7 +3,7 @@ Exercise 7 - The integers are entered from the input dialogs and stored in varia
 num1, num2, and num3. The program sorts the numbers so that num1 ≤ num2 ≤ num3
  */
 
-package w1;
+package week1;
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package w1;
+package week1;
 import java.util.Scanner;
 
 public class SumDigits {

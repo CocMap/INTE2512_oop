@@ -9,7 +9,7 @@ m is the month (3: March, 4: April, . . ., 12: December). January and February a
 j is the century (i.e.  year1000 ).
 k is the year of the century (i.e., year % 100).
  */
-package w1;
+package week1;
 
 import java.util.Scanner;
 
